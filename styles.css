@@ -257,4 +257,13 @@ transform: translateX(20px);
 opacity: 1;
 }
 
+/*Small Phones*/
+@media (max-width:480px) {
+    .available__img--list {
+        flex-direction: column;
+    }
+    .available__img--wrapper {
+        padding: 12px 0;
+    }
 
+    }
