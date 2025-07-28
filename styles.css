@@ -115,16 +115,6 @@ nav {
     margin: 0 20px;
 }
 
-.img__link { border: none; background: none; }
-
-.img__link img
-{
-  height: 20rem;
-}
-.img__link:active img, .img__link:focus img
-{
-  height: 50rem;
-}
 
 @keyframes fade-up {
     0% {
