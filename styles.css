@@ -257,11 +257,4 @@ transform: translateX(20px);
 opacity: 1;
 }
 
-/*Small Phones*/
-@media (max-width:480px) {
-    .available__img--list {
-        display: none;
-    }
 
-    }
-}
