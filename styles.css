@@ -281,3 +281,10 @@ opacity: 1;
     }
 
     }
+
+    /*Small Phones */
+
+@media (max-width: 480px) {
+.no_small {
+    display: none;
+}
