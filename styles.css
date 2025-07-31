@@ -67,6 +67,19 @@ li {
 }
 
 
+/* Dark Theme */
+.dark-theme h1,
+.dark-theme h2, 
+.dark-theme h3,
+.dark-theme p,
+.dark-theme .fk__logo,
+.dark-theme .nav__link--anchor {
+    color:white;
+}
+
+.dark-theme {
+    background-color: #242424;
+}
 
 /*NAV*/
 nav {
