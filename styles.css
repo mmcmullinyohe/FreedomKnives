@@ -280,12 +280,16 @@ opacity: 1;
         padding: 12px 0;
     }
 
+    h1 {
+        font-size: ;
+    }
+
     }
 
     /*Small Phones*/
     @media (max-width: 480px) {
     nav {
         margin: 0, auto;
-        max-width: 470px;
+        max-width: 310px;
     }
     }
