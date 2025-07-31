@@ -281,3 +281,11 @@ opacity: 1;
     }
 
     }
+
+    /*Small Phones*/
+    @media (max-width: 480px) {
+    nav {
+        margin: 0, auto;
+        max-width: 470px;
+    }
+    }
